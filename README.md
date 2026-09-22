@@ -55,6 +55,15 @@ Use Python 3.12. The package was tested on Windows; the guide includes macOS/Lin
 
 The dry-map result is on one fixed map, not arbitrary-maze generalization. Slippery evaluations include holes and timeouts. Three training seeds share evaluation seeds; they are not 1,500 independent tests. Exact results can vary with package versions and seeds. Training replaces the selected run folder's files, so preserve recorded results before experimenting.
 
+## Focused practice lessons
+
+[Download the focused lesson checkpoints](focused-lessons.zip?raw=true), then extract the ZIP and open its `README.md`. The pack adds two small Python exercises:
+
+- **Why does the agent keep choosing left?** Reproduce the tied-value bug, repair random tie-breaking, and test epsilon exploration. Six runnable checkpoints distinguish action selection from learned success.
+- **99% accuracy, zero faults caught.** Calculate accuracy, recall and precision for three fictional detectors. Four runnable checkpoints expose the tradeoffs.
+
+These examples run on the CPU. The focused lesson videos are in production; the complete workshops linked in the checkpoint README are available now.
+
 ## Course and credits
 
 [Course video](https://www.youtube.com/watch?v=q9UxQozYXwA) — watch the complete 48-minute code-with-me workshop. The project download is free and available above.
