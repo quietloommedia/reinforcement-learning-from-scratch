@@ -47,6 +47,7 @@ def main():
     holes = sum(row["outcome"] == "hole" for row in rows)
     timeouts = sum(row["outcome"] == "timeout" for row in rows)
     print(f"Random policy: {goals}/{len(rows)} goals")
+    print(f"  success rate = {100 * goals / len(rows):.1f}%")
     print(f"  holes = {holes}, timeouts = {timeouts}")
 
     condition = "slippery" if args.slippery else "dry"

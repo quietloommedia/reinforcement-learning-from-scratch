@@ -118,3 +118,8 @@ This is an original course and implementation, not a transcript rewrite of anoth
 The custom fantasy renderer in `lake_view.py` is supplied presentation code. It draws the actual Gymnasium map and current observation; it never chooses actions, changes rewards or advances the game. Its high-resolution adventurer, treasure chest, ice and hazard artwork was generated with built-in Codex ImageGen for this course. The renderer is independent of Q-learning, so you can learn and test the algorithm without a graphical desktop. State changes remain discrete; a brief visual hop connects the two actual observed cells. The short viewing delay makes each actual observation readable; it does not change the environment's dynamics.
 
 The stock Gymnasium renderer used in earlier previews credits Franuka's Snowy Town pack and Mel Tillery; those stock sprites are not used by the new course renderer. Exact diagrams, state numbers and code remain programmatic. Narration is synthetic, using the channel's established Alex Mercer voice profile; its reference attribution is retained in the production records.
+
+
+## Live demonstration revision
+
+This local revision adds the explicitly printed random success rate, the recorded separate experiment script, and EXERCISES.md. The starter stays intentionally incomplete. Chapter 8 includes the evaluation regression test before episode playback. Existing algorithm and environment behavior are preserved. The video shows Windows; other-platform setup commands remain references, not filmed demonstrations.

@@ -6,11 +6,19 @@ An original FrozenLake Q-learning workshop for learners with basic Python. No GP
 
 ## Download the complete code-with-me project
 
-**[Download the course project](https://github.com/quietloommedia/reinforcement-learning-from-scratch/releases/latest)** — choose `rl-code-with-me.zip` under Assets.
+**[Download the course project](https://github.com/quietloommedia/reinforcement-learning-from-scratch/releases/tag/v1.1.0)** — choose `rl-code-with-me.zip` under Assets.
 
-The release contains the **starter**, cumulative **chapter checkpoints**, completed **reference**, VS Code tasks, custom fantasy assets, saved policies and recorded experiments, plus checksums. Start with its `START-HERE.md`, then open `starter` as a folder in VS Code. Files absent from the starter are created with the lesson. A checkpoint is the completed endpoint of its chapter.
+Release **v1.1.0** matches the revised 48-minute workshop. The release contains the **starter**, cumulative **chapter checkpoints**, completed **reference**, VS Code tasks, custom fantasy assets, saved policies and recorded experiments, plus checksums. Start with its `START-HERE.md`, then open `starter` as a folder in VS Code. Files absent from the starter are created with the lesson. A checkpoint is the completed endpoint of its chapter.
 
 The Python files in this repository's root are the finished reference implementation, provided for browsing. For the exact ready-to-run teaching layout and supplied artwork, use the release ZIP. Its code is identical to these files. [Read the complete setup and lesson guide](START-HERE.md).
+
+## Updated workshop files
+
+- [Follow-along and extension exercises](EXERCISES.md), including the evaluation-test exercise.
+- [Separate seed-19 experiment](experiment.py), with its own saved run folder.
+- The random baseline now prints the success percentage shown in the lesson.
+
+Use the attached `rl-code-with-me.zip`; GitHub’s automatic source archives contain only the browsable repository files. The full ZIP includes the required artwork and saved runs.
 
 ## Run the completed reference (Windows)
 
@@ -42,7 +50,7 @@ The dry-map result is on one fixed map, not arbitrary-maze generalization. Slipp
 
 ## Course and credits
 
-[Course video](https://www.youtube.com/watch?v=qOCVpt7q2XM) — currently private for review. The project download is available independently.
+[Course video](https://www.youtube.com/watch?v=q9UxQozYXwA) — currently private for review. The project download is available independently.
 
 [QuietLoom Media](https://www.youtube.com/@quietloom-media)
 
