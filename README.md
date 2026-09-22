@@ -50,7 +50,7 @@ The dry-map result is on one fixed map, not arbitrary-maze generalization. Slipp
 
 ## Course and credits
 
-[Course video](https://www.youtube.com/watch?v=q9UxQozYXwA) — currently private for review. The project download is available independently.
+[Course video](https://www.youtube.com/watch?v=q9UxQozYXwA) — watch the complete 48-minute code-with-me workshop. The project download is free and available above.
 
 [QuietLoom Media](https://www.youtube.com/@quietloom-media)
 
