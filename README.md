@@ -4,6 +4,13 @@
 
 An original FrozenLake Q-learning workshop for learners with basic Python. No GPU or paid API is required.
 
+## Free quick references
+
+- [Q-learning cheat sheet](Q-LEARNING-CHEAT-SHEET.md): update rule, exploration and evaluation.
+- [Agent debugging checklist](AGENT-DEBUGGING-CHECKLIST.md): a practical order for inspecting a stuck agent.
+
+These optional references supplement the workshop; the complete project remains freely available below.
+
 ## Download the complete code-with-me project
 
 **[Download the course project](https://github.com/quietloommedia/reinforcement-learning-from-scratch/releases/tag/v1.1.0)** — choose `rl-code-with-me.zip` under Assets.
